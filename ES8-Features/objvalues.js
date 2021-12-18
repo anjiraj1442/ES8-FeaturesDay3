@@ -1,4 +1,4 @@
-//Object.values() its retirn both key and value
+//Object.values() its retirn  value
 //its returns the all the values in array
 
 let phone = {

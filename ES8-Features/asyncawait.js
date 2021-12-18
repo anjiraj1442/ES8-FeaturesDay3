@@ -26,9 +26,9 @@ function reacharge() {
    }
    
    async function test() {
-     const re = await reacharge()
-     const nu = await number()
-     const pl = await plan()
+     const re = await reacharge();
+     const nu = await number();
+     const pl = await plan();
    
      console.log(`${ re } ${ nu } ${ pl }`);
    }
